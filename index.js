@@ -79,3 +79,4 @@ client.on('interactionCreate', async interaction => {
 client.login(process.env.TOKEN)
 
 endCon(con);
+// lets pretend these are a few changes
